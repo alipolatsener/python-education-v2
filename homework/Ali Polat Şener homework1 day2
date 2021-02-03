@@ -1,0 +1,8 @@
+nums=list(range(10))
+print(nums)
+print(len(nums))
+i=int(len(nums)/2)
+print(int(i))
+list1=list(range(0,i))
+list2=list(range(i,2*i))
+print(list2+list1)
